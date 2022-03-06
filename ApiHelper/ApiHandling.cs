@@ -23,7 +23,7 @@ namespace ApiHelper
         }
         public async Task<T> Getinfo<T>()
         {
-            var result = await HttpClientApi.GetAsync("api/rgbw/info");
+            var result = await HttpClientApi.GetAsync("info");
             if (!result.IsSuccessStatusCode)
             {
                 return default(T);
