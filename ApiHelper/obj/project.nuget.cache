@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dBMn/0DUlL4YDDMkl/rnKibzn36AGyyCUJubeGLBkFV5CExHdKu0DK5GtxJ+ne5XXGknzRxwhT7amjAv8NAZJA==",
+  "success": true,
+  "projectFilePath": "C:\\Kamil\\Kurs_IT\\Projekty\\ElaCompilApi\\ApiHelper\\ApiHelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\48501\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

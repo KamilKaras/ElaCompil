@@ -1,0 +1,12 @@
+C:\Kamil\Kurs_IT\Projekty\ElaCompilApi\ApiHelper\bin\Debug\net5.0\ApiHelper.deps.json
+C:\Kamil\Kurs_IT\Projekty\ElaCompilApi\ApiHelper\bin\Debug\net5.0\ApiHelper.dll
+C:\Kamil\Kurs_IT\Projekty\ElaCompilApi\ApiHelper\bin\Debug\net5.0\ref\ApiHelper.dll
+C:\Kamil\Kurs_IT\Projekty\ElaCompilApi\ApiHelper\bin\Debug\net5.0\ApiHelper.pdb
+C:\Kamil\Kurs_IT\Projekty\ElaCompilApi\ApiHelper\obj\Debug\net5.0\ApiHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kamil\Kurs_IT\Projekty\ElaCompilApi\ApiHelper\obj\Debug\net5.0\ApiHelper.AssemblyInfoInputs.cache
+C:\Kamil\Kurs_IT\Projekty\ElaCompilApi\ApiHelper\obj\Debug\net5.0\ApiHelper.AssemblyInfo.cs
+C:\Kamil\Kurs_IT\Projekty\ElaCompilApi\ApiHelper\obj\Debug\net5.0\ApiHelper.csproj.CoreCompileInputs.cache
+C:\Kamil\Kurs_IT\Projekty\ElaCompilApi\ApiHelper\obj\Debug\net5.0\ApiHelper.dll
+C:\Kamil\Kurs_IT\Projekty\ElaCompilApi\ApiHelper\obj\Debug\net5.0\ref\ApiHelper.dll
+C:\Kamil\Kurs_IT\Projekty\ElaCompilApi\ApiHelper\obj\Debug\net5.0\ApiHelper.pdb
+C:\Kamil\Kurs_IT\Projekty\ElaCompilApi\ApiHelper\obj\Debug\net5.0\ApiHelper.csproj.AssemblyReference.cache
