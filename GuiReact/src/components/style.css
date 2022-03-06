@@ -1,0 +1,108 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    font-family: inherit;
+  }
+.title{
+  margin: 2rem;
+}
+.header{
+    display: flex;
+    flex-direction: column;
+    min-height: 500px;
+    margin-top: 5rem;
+}
+.info{
+    display: flex;
+    flex-direction: row;
+    padding: 2rem;
+}
+.device{
+    min-height: 200px;
+    min-width: 250px;
+    background-image: url(./ElaCompile_transparent.png);
+  }
+.device-data{
+    margin: 0 2rem;
+    font-weight: bold;
+    font-size: 1.1rem;
+  }
+.device-title{
+    color: grey;
+    font-size: 0.6rem;
+    margin: 0 0;
+  }
+.device-value{
+    margin: 0.5rem 0;
+  }
+.actualInformation{
+    display: flex;
+    flex-direction: column;
+    min-height:500px ;
+    margin-top: 5rem;
+  }
+.led{
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+    background-color: silver;
+    border: solid;
+    border-radius: 1.5rem;
+    max-width: 400px;
+  }
+  .firstRow{
+    display: flex;
+    flex-direction: row;
+  }
+  .secondRow{
+    display: flex;
+    flex-direction: row;
+  }
+  .information{
+      display: flex;
+      flex-wrap: wrap;
+      flex-direction: row;
+      align-items: center;
+  }
+  .device-data-info{
+    margin: 0 1rem;
+    font-weight: bold;
+    font-size: 1.1rem;
+  }
+.device-title-info{
+    font-size: 0.9rem;
+    margin: 0 0;
+  }
+.device-value-info{
+    margin: 0.5rem 0;
+  }
+  .select-list{
+    padding: 0.5rem;
+    margin: 0.5rem;
+}
+.device-handling{
+  display: flex;
+  flex-direction: column;
+  min-height: 500px;
+  margin-top: 5rem;
+}
+.select-box{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.button{
+    margin: 1rem;
+    background-color: green;
+    border-radius: 5px;
+    font-size: 17px;
+    font-family: 'Source Sans Pro', sans-serif;
+    padding: 6px 18px;
+}
+.box{
+  margin: 2rem;
+}
